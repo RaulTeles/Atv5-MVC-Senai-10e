@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LHPet10e.props" />
+</Project>
